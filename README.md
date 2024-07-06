@@ -1,9 +1,6 @@
 # IRCTC-Train-Reservation-portal
 Complete portal for booking and managing and getting info about Trains
 
-### Team Members
-ARSH GUPTA, AMAN KUMAR, PRIYANSHU, ABHINN YADAV
-
 ### Technology and Frameworks used
 &nbsp;&nbsp;&nbsp;&nbsp; - `Flask`<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - `SQL`<br>
